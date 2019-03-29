@@ -1,0 +1,7 @@
+"","   age0to19","  age20to39","  age40to59","  age60to79","  age80over","    house"
+"","Min.   : 631.0  ","Min.   : 676  ","Min.   : 984  ","Min.   : 700  ","Min.   :188.0  ","Min.   :1397  "
+"","1st Qu.: 663.5  ","1st Qu.: 837  ","1st Qu.:1093  ","1st Qu.:1126  ","1st Qu.:310.5  ","1st Qu.:1681  "
+"","Median : 837.0  ","Median : 993  ","Median :1288  ","Median :1273  ","Median :342.0  ","Median :2180  "
+"","Mean   : 920.2  ","Mean   :1225  ","Mean   :1462  ","Mean   :1392  ","Mean   :390.1  ","Mean   :2399  "
+"","3rd Qu.:1055.5  ","3rd Qu.:1585  ","3rd Qu.:1704  ","3rd Qu.:1584  ","3rd Qu.:431.0  ","3rd Qu.:2912  "
+"","Max.   :1595.0  ","Max.   :2121  ","Max.   :2393  ","Max.   :2673  ","Max.   :896.0  ","Max.   :4120  "
